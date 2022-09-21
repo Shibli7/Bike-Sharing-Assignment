@@ -4,7 +4,7 @@ Linear Regression Bike Sharing Assingment
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#Phyton, Gitbash, Github)
+* [Technologies Used]
 
 
 ## General Information
